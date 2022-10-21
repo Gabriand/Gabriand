@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-<p align="right"> <img width="250" height="250" src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif"> 
+<p align="left"> <img width="150" height="150" src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif"> 
 </p>
 
 - 🌱 I'm currently learning: 
 FrontEnd - HTML, CSS and JS soon.
 
-<p align="center"> <img width="350" height="250" src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif"> 
+<p align="center"> <img width="250" height="150" src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif"> 
 </p>
 
 - 📫 How to reach me: https://twitter.com/Gabriiel_ARP
