@@ -1,4 +1,4 @@
-<h1 align="center">print(Welcome to my profile :P.) 👋</h1>
+<h1 align="center">print("Welcome to my profile") 👋</h1>
 
 <p align="center"> <img width="150" height="150" src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif"> 
 </p>
@@ -29,7 +29,7 @@ FrontEnd - HTML, CSS and JS soon.
 
 
 <!--
-### print(Welcome to my profile :P.) 👋
+### print("Welcome to my profile :P.") 👋
 
 **Gabriand/Gabriand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
