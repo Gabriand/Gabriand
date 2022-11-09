@@ -11,14 +11,18 @@ FrontEnd - HTML, CSS and JS soon.
 <p align="right"> <img width="250" height="150" src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif"> 
 </p>
 
-- 📫 How to reach me: https://twitter.com/Gabriiel_ARP
+- 📫 How to reach me: **gabrielrivera11a@gmail.com**
 
 - ⚡ Fun fact: I tell my pet about my dreams 🐶✨.
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Gabriiel_ARP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gabriiel" height="30" width="40" /></a>
 
 
 
+  
 <!--
 ### print(Welcome to my profile :P.) 👋
 
