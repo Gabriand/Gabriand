@@ -2,6 +2,7 @@
 
 <h1 align="center">print("Welcome to my profile 😋")</h1> 
 
+<br>
 
 - 🌱 I'm currently learning: JavaScript and BackEnd
 
@@ -28,7 +29,6 @@
 <br>
 
   
-  
 <h3 align="left">Stats:</h3>
   
 <div align ="center">  
@@ -38,6 +38,7 @@
 
   <p><img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriand&" alt="gabriand"></p>
 </div>
+
 
 <!--
 ### print("Welcome to my profile :P.") 👋
