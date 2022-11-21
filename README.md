@@ -3,8 +3,7 @@
 <h1 align="center">print("Welcome to my profile 😋")</h1> 
 
 
-- 🌱 I'm currently learning: 
-FrontEnd - HTML, CSS and JS soon.
+- 🌱 I'm currently learning: JavaScript and BackEnd
 
 <p align="center"> <img width="200" height="auto" src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif"> 
 </p>
@@ -13,13 +12,22 @@ FrontEnd - HTML, CSS and JS soon.
 
 - ⚡ Fun fact: I tell my pet about my dreams 🐶✨.
 
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://twitter.com/Gabriiel_ARP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gabriiel" height="30" width="40" /></a>
+<a href="https://twitter.com/Gabriiel_ARP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gabriiel" width="40" /></a>
 
-<!--<h3 align="left">Languages and tools:</h3>-->
+  
+<h3 align="left">Languages and tools:</h3>
 
+<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<br>
 
+  
   
 <h3 align="left">Stats:</h3>
   
