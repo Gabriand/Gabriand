@@ -7,7 +7,7 @@
 - 🌱 **I'm currently learning:** JavaScript and BackEnd
 
 <p align="center"> 
-  <img width="200" height="auto" src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif">
+  <img width="150" height="auto" src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif">
 </p>
 
 - 📫 **How to reach me:** [gabrielrivera11a@gmail.com](mailto:gabrielrivera11a@gmail.com)
