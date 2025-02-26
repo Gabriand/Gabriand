@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif" width="100" height="auto">
 </p>
-# print("Welcome to my profile")
+
+# Welcome to my profile
 <br>
 
 ---
