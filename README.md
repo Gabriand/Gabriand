@@ -1,17 +1,19 @@
 <br>
-<img align="right" width="100" height="auto" src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif">
-<h1 align="center">print("Welcome to my profile")</h1> 
+<p align="center">
+  <img width="100" height="auto" src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif">
+</p>
+<h1 align="center">print("Welcome to my profile")</h1>
 <br>
 
-- 🌱 **I'm currently learning:** JavaScript and BackEnd
+- 🌱 **Currently learning:** JavaScript and Backend development
 
-<p align="center"> 
+<p align="center">
   <img width="160" height="auto" src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif">
 </p>
 
-- 📫 **How to reach me:** [gabrielrivera11a@gmail.com](mailto:gabrielrivera11a@gmail.com)
+- 📫 **Reach me at:** [gabrielrivera11a@gmail.com](mailto:gabrielrivera11a@gmail.com)
 
-- ⚡ **Fun fact:** I tell my pet about my dreams 🐶✨.
+- ⚡ **Fun fact:** I tell my pet about my dreams 🐶✨
 
 ---
 
@@ -21,7 +23,7 @@
   <a href="https://twitter.com/Gabriandp" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gabriiel" width="40" />
   </a>
-  <!-- Puedes agregar más iconos de redes sociales aquí -->
+  <!-- Add more social media icons here -->
 </p>
 
 ---
@@ -31,20 +33,21 @@
 <p align="center">
   <img alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img alt="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
 
 ---
 
-<h3 align="center">Stats:</h3>
+<h3 align="center">GitHub Stats:</h3>
 
-<div align="center">  
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriand&show_icons=true&locale=en&layout=compact" alt="gabriand"></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriand&show_icons=true&locale=en" alt="gabriand" />
+</p>
 
-  <p><img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriand&show_icons=true&locale=en" alt="gabriand"></p>
-
-  <p><img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriand&" alt="gabriand"></p>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriand" alt="gabriand" />
+</p>
