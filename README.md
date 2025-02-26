@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="100" height="auto" src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif">
-</p>
+<img width="100" height="auto" aling="center" src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif">
 <h1 align="center">print("Welcome to my profile")</h1>
 <br>
 
@@ -13,7 +11,7 @@
 --->
 
 
-- 🌱 **Currently learning:** JavaScript and Backend development <img src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif" width="160" height="auto" align="right" /> 
+- 🌱 **Currently learning:** JavaScript and Backend development <img src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif" width="140" height="auto" align="right" /> 
 - 📫 **Reach me at:** [gabrielrivera11a@gmail.com](mailto:gabrielrivera11a@gmail.com)
 - ⚡ **Fun fact:** I tell my pet about my dreams 🐶✨
 <br><br>
