@@ -34,7 +34,8 @@
   <img alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <!-- Agrega más herramientas según sea necesario -->
+  <img alt="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img alt="SQL Server" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 </p>
 
 ---
@@ -48,18 +49,3 @@
 
   <p><img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriand&" alt="gabriand"></p>
 </div>
-
-<!--
-### print("Welcome to my profile :P.") 👋
-
-**Gabriand/Gabriand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: 
-- 💬 Ask me about ...
--->
