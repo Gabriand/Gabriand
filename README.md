@@ -1,7 +1,6 @@
 <img align="right" width="100" height="auto" src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif">
-
-<h1 align="center">print("Welcome to my profile 😋")</h1> 
-
+<h1 align="center">print("Welcome to my profile")</h1> 
+<br>
 <br>
 
 - 🌱 **I'm currently learning:** JavaScript and BackEnd
