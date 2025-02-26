@@ -1,4 +1,4 @@
-<img width="100" height="auto" aling="center" src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif">
+<img width="100" height="auto" align="center" src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif">
 <h1 align="center">print("Welcome to my profile")</h1>
 <br>
 
