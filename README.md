@@ -7,7 +7,7 @@
 
 - 🌱 **Currently learning:** JavaScript and Backend development
 
-<p align="center">
+<p align="left">
   <img width="160" height="auto" src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif">
 </p>
 
