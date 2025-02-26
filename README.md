@@ -4,14 +4,7 @@
 <h1 align="center">print("Welcome to my profile")</h1>
 <br>
 
-<!---
-- 🌱 **Currently learning:** JavaScript and Backend development
-
-<p align="right">
-  <img width="160" height="auto" src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif">
-</p>
---->
-
+---
 
 - 🌱 **Currently learning:** JavaScript and Backend development <img src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif" width="140" height="auto" align="right" /> 
 - 📫 **Reach me at:** [gabrielrivera11a@gmail.com](mailto:gabrielrivera11a@gmail.com)
