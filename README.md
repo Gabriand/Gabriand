@@ -6,14 +6,12 @@
 <br>
 
 - 🌱 **Currently learning:** JavaScript and Backend development
+- 📫 **Reach me at:** [gabrielrivera11a@gmail.com](mailto:gabrielrivera11a@gmail.com)
+- ⚡ **Fun fact:** I tell my pet about my dreams 🐶✨
 
 <p align="right">
   <img width="160" height="auto" src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif">
 </p>
-
-- 📫 **Reach me at:** [gabrielrivera11a@gmail.com](mailto:gabrielrivera11a@gmail.com)
-
-- ⚡ **Fun fact:** I tell my pet about my dreams 🐶✨
 
 ---
 
