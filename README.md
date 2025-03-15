@@ -39,7 +39,7 @@
 
 ---
 
-<h3 align="center">Activity</h3>
+<h3 align="center">Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [Gabriand/git-github](https://github.com/Gabriand/git-github) from [platzi/git-github](https://github.com/platzi/git-github)<br>
