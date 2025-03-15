@@ -39,9 +39,8 @@
 
 ---
 
-<h3 align="center">Activity</h3>
-
-
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ---
 
