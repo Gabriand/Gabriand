@@ -7,8 +7,9 @@
 </h1>   
 <br>
 
-- 🌱 **Currently learning:** JavaScript and Backend development <img src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif" width="140" height="auto" align="right" /> 
+- 🌱 **Currently learning:** JavaScript and Mobile development
 - 📫 **Reach me at:** [gabrielrivera11a@gmail.com](mailto:gabrielrivera11a@gmail.com)
+- 💬 **Ask me about:** How to center a div
 - ⚡ **Fun fact:** I tell my pet about my dreams 🐶✨
 <br><br>
 
