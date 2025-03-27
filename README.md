@@ -8,7 +8,7 @@
 
 <h3 align="center">A Computer Science Engineering student 🤓 and future developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gabriand" alt="gabriand"/> </p>
+<!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=Gabriand" alt="gabriand"/> </p> -->
 
 - 🌱 **Currently learning:** JavaScript and Mobile development
 - 📫 **Reach me at:** [gabrielrivera11a@gmail.com](mailto:gabrielrivera11a@gmail.com)
