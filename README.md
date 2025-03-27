@@ -5,13 +5,15 @@
 <h1 align="center">
   print("Welcome to my profile")
 </h1>   
-<br>
+
+<h3 align="center">A Computer Science Engineering student 🤓 and future developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gabriand" alt="gabriand"/> </p>
 
 - 🌱 **Currently learning:** JavaScript and Mobile development
 - 📫 **Reach me at:** [gabrielrivera11a@gmail.com](mailto:gabrielrivera11a@gmail.com)
 - 💬 **Ask me about:** How to center a div
 - ⚡ **Fun fact:** I tell my pet about my dreams 🐶✨
-<br><br>
 
 ---
 
@@ -19,7 +21,7 @@
 
 <p align="center">
   <a href="https://twitter.com/Gabriandp" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gabriiel" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gabriandp" width="40" />
   </a>
   <!-- Add more social media icons here -->
 </p>
